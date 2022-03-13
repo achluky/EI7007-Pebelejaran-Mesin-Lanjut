@@ -1,7 +1,7 @@
-# EI7007-Pebelejaran-Mesin-Lanjut
+# EI7007-Pebelejaran-Mesin-Lanjut :technologist:
 Tugas terkait dengan pembelajaran mesin lanjut (Deep Learning)
 
-## A step-by-step hyperparameter optimization in convolutional neural network (CNN) & Fully Connected Neural Network (MLP)
+## A step-by-step hyperparameter optimization in convolutional neural network (CNN) & Fully Connected Neural Network (MLP) :scientist:
 
 Pada bagian ini saya akan mencoba melakukan eksplorasi terkait dengan proses optimasi hyperparameter yang terdapat dalam arsitektur CNN dan MLP. 
 
@@ -27,7 +27,7 @@ Sehingga setelah proses eksplorasi didapatkan informasi terkait dengan
 5. Loss function dengan hasil optimal
 
 
-## Result
+## Result :man_technologist:
 Terdapat 2 hasil eksplorasi dari 2 jenis persoalan, yaitu
 1. [Persoalan klasifikasi (CNN)]()
 2. [Persoalan Regresi (MLP)]()
