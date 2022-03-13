@@ -6,7 +6,7 @@ Tugas terkait dengan pembelajaran mesin lanjut (Deep Learning)
 Pada bagian ini saya akan mencoba melakukan eksplorasi terkait dengan proses optimasi hyperparameter yang terdapat dalam arsitektur CNN dan MLP. 
 
 Pada eksplorasi ini saya akan mencoba menggunakan 2 data dengan 2 jenis persoalan yaitu 
-A. Persoalan Klasifikasi untuk arsitektur CNN (Dataset Fashion MNIST)
+### A. Persoalan Klasifikasi untuk arsitektur CNN (Dataset Fashion MNIST)
 Sehingga setelah proses eksplorasi didapatkan informasi terkait dengan hyperparameter pada model CNN yang didapatkan. 
 
 Hyperparameter tersebut seperti:
@@ -17,7 +17,7 @@ Hyperparameter tersebut seperti:
 
 Selain hyperparameter di atas, dilakukan eksplorasi terkait dengan Optimizer, learning rate schedule dan Losses pada nilai parameter default untuk mendapatkan kinerja model paling baik
 
-B. Persoalan Regresi untuk arsitektur MLP (Data Boston Housing Price)
+### B. Persoalan Regresi untuk arsitektur MLP (Data Boston Housing Price)
 
 Sehingga setelah proses eksplorasi didapatkan informasi terkait dengan
 1. Jumlah hidden layar yang optimal
